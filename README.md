@@ -1,5 +1,5 @@
 # **Atividades de Manipulação de Strings em C++**  
-Este repositório contém **4 atividades** de manipulação de strings em **C++**, desenvolvidas por **Gustavo Murai**. Os exercícios exploram conceitos como **manipulação de texto, entrada e saída de arquivos e formatação de strings**.  
+Este repositório contém **4 atividades** de manipulação de strings em **C++**, desenvolvidas por **Gustavo Murai e Igor Murai**. Os exercícios exploram conceitos como **manipulação de texto, entrada e saída de arquivos e formatação de strings**.  
 
 ---
 
